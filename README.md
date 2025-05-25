@@ -18,7 +18,7 @@ A Flutter app that allows users to scan invoice images using **Google ML Kit Tex
 
 | Pick Image | Extracted Data | Export to PDF |
 |------------|----------------|----------------|
-| ![Pick](assets/screens/pick_image.png) | ![Data](assets/screens/invoice_data.png) | ![PDF](assets/screens/pdf_export.png) |
+| ![WhatsApp Image 2025-05-25 at 12 33 56 PM](https://github.com/user-attachments/assets/c581ea6e-28af-4e37-b783-427b070d0a28) | ![WhatsApp Image 2025-05-25 at 12 33 52 PM](https://github.com/user-attachments/assets/05094647-8283-45f6-91f3-1aa469ee5017) | ![WhatsApp Image 2025-05-25 at 12 33 53 PM](https://github.com/user-attachments/assets/0c815305-194b-4929-8615-71e5a5767f73) |
 
 ## 🛠️ Technologies Used
 
